@@ -6,11 +6,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 17.0+e\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-29 10:01+0000\n"
-"PO-Revision-Date: 2024-05-29 12:11+0200\n"
+"POT-Creation-Date: 2024-05-29 09:51+0000\n"
+"PO-Revision-Date: 2024-05-29 12:00+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: es\n"
+"Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -23,165 +23,158 @@ msgid "Partner Industry by EU NACE Wizard"
 msgstr ""
 
 #~ msgid "10.21 - Processing of fish, crustaceans and molluscs"
-#~ msgstr "10.21 - Procesado de pescados, crustáceos y moluscos"
+#~ msgstr "10.21 - Processament del peix, crustacis o mol·luscs"
 
 #~ msgid "10.22 - Manufacture of preserved fish"
-#~ msgstr "10.22 - Fabricación de conservas de pescado"
+#~ msgstr "10.22 - Elaboració de conserves de peix"
 
 #~ msgid "10.43 - Manufacture of olive oil"
-#~ msgstr "10.43 - Fabricación de aceite de oliva"
+#~ msgstr "10.43 - Elaboració d'oli d'oliva"
 
 #~ msgid "10.44 - Manufacture of other oils and fats"
-#~ msgstr "10.44 - Fabricación de otros aceites y grasas"
+#~ msgstr "10.44 - Elaboració d'altres olis i greixos"
 
 #~ msgid "10.53 - Manufacture of cheeses"
-#~ msgstr "10.53 - Fabricación de quesos"
+#~ msgstr "10.53 - Elaboració de formatges"
 
 #~ msgid "10.54 - Manufacture of milk and other dairies"
-#~ msgstr "10.54 - Preparación de leche y otros productos lácteos"
+#~ msgstr "10.54 - Elaboració de llet i altres derivats"
 
 #~ msgid "35.15 - Production of hydro-electric electricity"
-#~ msgstr "35.15 - Producción de energía hidroeléctrica"
+#~ msgstr "35.15 - Producció d'energia hidroelèctrica"
 
 #~ msgid "35.16 - Production of electric energy of conventional thermal origin"
-#~ msgstr ""
-#~ "35.16 - Producción de energía eléctrica de origen térmico convencional"
+#~ msgstr "35.16 - Producció d'energia elèctrica d'origen tèrmic convencional"
 
 #~ msgid "35.17 - Production of electric energy of nuclear origin"
-#~ msgstr "35.17 - Producción de energía eléctrica de origen nuclear"
+#~ msgstr "35.17 - Producció d'energia elèctrica d'origen nuclear"
 
 #~ msgid "35.18 - Production of electric energy of eolian origin"
-#~ msgstr "35.18 - Producción de energía eléctrica de origen eólico"
+#~ msgstr "35.18 - Producció d'energia elèctrica d'origen eòlic"
 
 #~ msgid "35.19 - Production of electric energy of other types"
-#~ msgstr "35.19 - Producción de energía eléctrica de otros tipos"
+#~ msgstr "35.19 - Producció d'energia elèctrica d'altres origens"
 
 #~ msgid "41.21 - Construction of residential buildings"
-#~ msgstr "41.21 - Construcción de edificios residenciales"
+#~ msgstr "41.21 - Construcció d'edificis residencials"
 
 #~ msgid "41.22 - Construction of non-residential buildings"
-#~ msgstr "41.22 - Construcción de edificios no residenciales"
+#~ msgstr "41.22 - Construcció d'edificis no residencials"
 
 #~ msgid "59.15 - Film and video production activities"
-#~ msgstr "59.15 - Actividades de producción cinematográfica y de vídeo"
+#~ msgstr "59.15 - Activitats de producció de cinema i vídeo"
 
 #~ msgid "59.16 - Television programs production and distribution activities"
-#~ msgstr "59.16 - Actividades de producción de programas de televisión"
+#~ msgstr ""
+#~ "59.16 - Activitats de producció i distribució de programes de televisió"
 
 #~ msgid "59.17 - Film and video distribution activities"
-#~ msgstr "59.17 - Actividades de distribución cinematográfica y de vídeo"
+#~ msgstr "59.17 - Activitats de distribució de cinema i vídeo"
 
 #~ msgid "59.18 - Television programs distribution activities"
-#~ msgstr "59.18 - Actividades de distribución de programas de televisión"
+#~ msgstr "59.18 - Activitats de distribució de programes de televisió"
 
 #~ msgid "85.43 - University education"
-#~ msgstr "85.43 - Educación universitaria"
+#~ msgstr "85.43 - Educació Universitaria"
 
 #~ msgid "85.44 - Non-university tertiary education"
-#~ msgstr "85.44 - Educación terciaria no universitaria"
+#~ msgstr "85.44 - Educació terciària no universitària"
 
 #~ msgid "87.31 - Residential care activities for the elderly"
-#~ msgstr ""
-#~ "87.31 - Asistencia en establecimientos residenciales para personas mayores"
+#~ msgstr "87.31 - Serveis socials amb allotjament a persones grans"
 
 #~ msgid "87.32 - Residential care activities for the disabled"
-#~ msgstr ""
-#~ "87.32 - Asistencia en establecimientos residenciales para personas con "
-#~ "discapacidad física"
+#~ msgstr "87.32 - Serveis socials amb allotjament a persones amb discapcitat"
 
 #~ msgid "88.11 - Social work activities without accommodation for the elderly"
 #~ msgstr ""
-#~ "88.11 - Actividades de servicios sociales sin alojamiento para personas "
-#~ "mayores"
+#~ "88.11 - Activitats de serveis socials sense allotjament a persones grans"
 
 #~ msgid ""
 #~ "88.12 - Social work activities without accommodation for the disabled"
 #~ msgstr ""
-#~ "88.12 - Actividades de servicios sociales sin alojamiento para personas "
-#~ "con discapacidad"
+#~ "88.12 - Activitats de serveis socials sense allotjament a persones amb "
+#~ "discapacitat"
 
 #~ msgid "91.05 - Library activities"
-#~ msgstr "91.05 - Actividades de bibliotecas"
+#~ msgstr "91.05 - Activitats bibliotecàries"
 
 #~ msgid "91.06 - Archives activities"
-#~ msgstr "91.06 - Actividades archivos"
+#~ msgstr "91.06 - Activitats d'arxiu"
 
 #~ msgid "Archives activities"
-#~ msgstr "Actividades archivos"
+#~ msgstr "Activitats d'arxiu"
 
 #~ msgid "Construction of non-residential buildings"
-#~ msgstr "Construcción de edificios no residenciales"
+#~ msgstr "Construcció d'edificis no residencials"
 
 #~ msgid "Construction of residential buildings"
-#~ msgstr "Construcción de edificios residenciales"
+#~ msgstr "Construcció d'edificis residencials"
 
 #~ msgid "Film and video distribution activities"
-#~ msgstr "Actividades de distribución cinematográfica y de vídeo"
+#~ msgstr "Activitats de distribució de cinema i vídeo"
 
 #~ msgid "Film and video production activities"
-#~ msgstr "Actividades de producción cinematográfica y de vídeo"
+#~ msgstr "Activitats de producció de cinema i vídeo"
 
 #~ msgid "Library activities"
-#~ msgstr "Actividades de bibliotecas"
+#~ msgstr "Activitats bibliotecàries"
 
 #~ msgid "Manufacture of cheeses"
-#~ msgstr "Fabricación de quesos"
+#~ msgstr "Elaboració de formatges"
 
 #~ msgid "Manufacture of milk and other dairies"
-#~ msgstr "Preparación de leche y otros productos lácteos"
+#~ msgstr "Elaboració de llet i altres derivats"
 
 #~ msgid "Manufacture of olive oil"
-#~ msgstr "Fabricación de aceite de oliva"
+#~ msgstr "Elaboració d'oli d'oliva"
 
 #~ msgid "Manufacture of other oils and fats"
-#~ msgstr "Fabricación de otros aceites y grasas"
+#~ msgstr "Elaboració d'altres olis i greixos"
 
 #~ msgid "Manufacture of preserved fish"
-#~ msgstr "Fabricación de conservas de pescado"
+#~ msgstr "Elaboració de conserves de peix"
 
 #~ msgid "Non-university tertiary education"
-#~ msgstr "Educación terciaria no universitaria"
+#~ msgstr "Educació terciària no universitària"
 
 #~ msgid "Processing of fish, crustaceans and molluscs"
-#~ msgstr "Procesado de pescados, crustáceos y moluscos"
+#~ msgstr "Processament del peix, crustacis o mol·luscs"
 
 #~ msgid "Production of electric energy of conventional thermal origin"
-#~ msgstr "Producción de energía eléctrica de origen térmico convencional"
+#~ msgstr "Producció d'energia elèctrica d'origen tèrmic convencional"
 
 #~ msgid "Production of electric energy of eolian origin"
-#~ msgstr "Producción de energía eléctrica de origen eólico"
+#~ msgstr "Producció d'energia elèctrica d'origen eòlic"
 
 #~ msgid "Production of electric energy of nuclear origin"
-#~ msgstr "Producción de energía eléctrica de origen nuclear"
+#~ msgstr "Producció d'energia elèctrica d'origen nuclear"
 
 #~ msgid "Production of electric energy of other types"
-#~ msgstr "Producción de energía eléctrica de otros tipos"
+#~ msgstr "Production of electric energy of other types"
 
 #~ msgid "Production of hydro-electric electricity"
-#~ msgstr "Producción de energía hidroeléctrica"
+#~ msgstr "Producció d'energia hidroelèctrica"
 
 #~ msgid "Residential care activities for the disabled"
-#~ msgstr ""
-#~ "Asistencia en establecimientos residenciales para personas con "
-#~ "discapacidad física"
+#~ msgstr "Serveis socials amb allotjament a persones amb discapcitat"
 
 #~ msgid "Residential care activities for the elderly"
-#~ msgstr "Asistencia en establecimientos residenciales para personas mayores"
+#~ msgstr "Serveis socials amb allotjament a persones grans"
 
 #~ msgid "Social work activities without accommodation for the disabled"
 #~ msgstr ""
-#~ "Actividades de servicios sociales sin alojamiento para personas con "
-#~ "discapacidad"
+#~ "Activitats de serveis socials sense allotjament a persones amb "
+#~ "discapacitat"
 
 #~ msgid "Social work activities without accommodation for the elderly"
-#~ msgstr ""
-#~ "Actividades de servicios sociales sin alojamiento para personas mayores"
+#~ msgstr "Activitats de serveis socials sense allotjament a persones grans"
 
 #~ msgid "Television programs distribution activities"
-#~ msgstr "Actividades de distribución de programas de televisión"
+#~ msgstr "Activitats de distribució de programes de televisió"
 
 #~ msgid "Television programs production and distribution activities"
-#~ msgstr "Actividades de producción de programas de televisión"
+#~ msgstr "Activitats de producció i distribució de programes de televisió"
 
 #~ msgid "University education"
-#~ msgstr "Educación universitaria"
+#~ msgstr "Educació Universitaria"
