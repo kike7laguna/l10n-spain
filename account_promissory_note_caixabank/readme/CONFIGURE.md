@@ -2,7 +2,7 @@ Para configurar el formato de impresión del cheque de forma global:
 
 1.  Vaya a *Facturación / Contabilidad \> Configuración \> Ajustes*.
 2.  Diríjase al apartado *Pagos de Proveedor*.
-3.  En *Disposición del cheque* seleccione **Pagaré CaixaBank**.
+3.  En *Diseño del cheque* seleccione **Pagaré CaixaBank**.
 
 Para configurar el formato de impresión del cheque para un diario
 específico:
