@@ -1,7 +1,8 @@
 [project]
 name = "odoo-addons-oca-l10n-spain"
-version = "18.0.20250607.2"
+version = "18.0.20250607.3"
 dependencies = [
+    "odoo-addon-account_promissory_note_caixabank==18.0.*",
     "odoo-addon-delivery_gls_asm==18.0.*",
     "odoo-addon-l10n_es_account_banking_sepa_fsdd==18.0.*",
     "odoo-addon-l10n_es_account_statement_import_n43==18.0.*",
