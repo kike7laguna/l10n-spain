@@ -25,6 +25,7 @@ addon | version | maintainers | summary
 [l10n_es_account_banking_sepa_fsdd](l10n_es_account_banking_sepa_fsdd/) | 18.0.1.0.0 |  | Account Banking Sepa - FSDD (Anticipos de crédito)
 [l10n_es_account_statement_import_n43](l10n_es_account_statement_import_n43/) | 18.0.1.0.0 | <a href='https://github.com/pedrobaeza'><img src='https://github.com/pedrobaeza.png' width='32' height='32' style='border-radius:50%;' alt='pedrobaeza'/></a> | Importación de extractos bancarios españoles (Norma 43)
 [l10n_es_aeat](l10n_es_aeat/) | 18.0.1.3.2 | <a href='https://github.com/pedrobaeza'><img src='https://github.com/pedrobaeza.png' width='32' height='32' style='border-radius:50%;' alt='pedrobaeza'/></a> | Modulo base para declaraciones de la AEAT
+[l10n_es_aeat_mod303](l10n_es_aeat_mod303/) | 18.0.1.0.0 | <a href='https://github.com/pedrobaeza'><img src='https://github.com/pedrobaeza.png' width='32' height='32' style='border-radius:50%;' alt='pedrobaeza'/></a> | AEAT modelo 303
 [l10n_es_partner](l10n_es_partner/) | 18.0.1.0.0 | <a href='https://github.com/pedrobaeza'><img src='https://github.com/pedrobaeza.png' width='32' height='32' style='border-radius:50%;' alt='pedrobaeza'/></a> | Adaptación de los clientes, proveedores y bancos para España
 [l10n_es_partner_mercantil](l10n_es_partner_mercantil/) | 18.0.1.0.0 |  | Añade los datos del registro mercantil a la empresa
 [l10n_es_payment_order_confirming_aef](l10n_es_payment_order_confirming_aef/) | 18.0.1.0.0 |  | Exportación de fichero bancario Confirming estándar AEF
