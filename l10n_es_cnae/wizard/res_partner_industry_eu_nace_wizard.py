@@ -1,10 +1,11 @@
 # Copyright 2024 Manuel Regidor <manuel.regidor@sygel.es>
 # License AGPL-3 - See http://www.gnu.org/licenses/agpl-3.0.html
 
+import csv
 import logging
 
 from odoo import models
-from odoo.tools import file_open, pycompat
+from odoo.tools import file_open
 
 _logger = logging.getLogger(__name__)
 
@@ -15,9 +16,9 @@ class ResPartnerIndustryEUNaceWizard(models.TransientModel):
     def create_spanish_industries(self):
         try:
             with file_open(
-                "l10n_es_cnae/data/res.partner.industry.csv", "rb"
+                "l10n_es_cnae/data/res.partner.industry.csv", "r"
             ) as csvfile:
-                reader = pycompat.csv_reader(csvfile, delimiter=",", quotechar='"')
+                reader = csv.reader(csvfile, delimiter=",", quotechar='"')
                 partner_industry_mod = self.env["res.partner.industry"]
                 all_naces = partner_industry_mod.search_read(
                     [("full_name", "like", " - ")], ["full_name"]

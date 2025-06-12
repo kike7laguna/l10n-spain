@@ -1,11 +1,14 @@
 # Copyright 2024 Manuel Regidor <manuel.regidor@sygel.es>
 # License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl-3).
 
-from odoo.tests.common import TransactionCase
-from odoo.tools import file_open, pycompat
+import csv
+
+from odoo.tools import file_open
+
+from odoo.addons.base.tests.common import BaseCommon
 
 
-class TestL10nEsCnae(TransactionCase):
+class TestL10nEsCnae(BaseCommon):
     @classmethod
     def setUpClass(cls):
         super().setUpClass()
@@ -14,8 +17,8 @@ class TestL10nEsCnae(TransactionCase):
     def test_create_spanish_industries(self):
         wizard = self.env["res.partner.industry.eu.nace.wizard"].create({})
         wizard.create_spanish_industries()
-        with file_open("l10n_es_cnae/data/res.partner.industry.csv", "rb") as csvfile:
-            reader = pycompat.csv_reader(csvfile, delimiter=",", quotechar='"')
+        with file_open("l10n_es_cnae/data/res.partner.industry.csv", "r") as csvfile:
+            reader = csv.reader(csvfile, delimiter=",", quotechar='"')
             all_naces = self.env["res.partner.industry"].search_read(
                 [("full_name", "like", " - ")], ["full_name"]
             )
