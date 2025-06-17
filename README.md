@@ -15,7 +15,7 @@ l10n-spain
 
 <!-- prettier-ignore-start -->
 
-[//]: # (addons)
+
 
 Available addons
 ----------------
